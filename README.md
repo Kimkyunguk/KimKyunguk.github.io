@@ -1,30 +1,20 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# About This Blog
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+## Uk's Blog 소개
+ 주로 임베디드 관련된 이슈를 다뤄볼 예정이고, 그 외에도 제가 관심있게 보고 있거나 공부하고 있는 내용이 있으면 업데이트 할 예정입니다.
+ 실제로 정보를 공유 한다기보다는 엉성한 개발자가 memo장 형식으로 사용 했을 가능성이 높습니다. 참고로 이용해 주시면 감사하겠습니다.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 내용
 
-## Preview
+* Programming 수련법
+* C
+* Python
+* GCC, GNU, Makefile
+* Tools
+* 전기 전자 기초
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+### 어떻게 만들어 졌나요?
+* **[Gitgub Pages](https://github.com/)**
+* **[Moon](https://taylantatli.github.io/Moon)**
+* **[jekyll](http://jekyllrb-ko.github.io/)**
