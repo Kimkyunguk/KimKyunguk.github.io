@@ -6,19 +6,17 @@ date: 2016-03-21
 comments: false
 ---
 
-## Uk's Blog ±â¾ï ÀúÀå¼Ò
-*  ÁÖ·Î ÀÓº£µğµå °ü·ÃµÈ ÀÌ½´¸¦ ´Ù·ïº¼ ¿¹Á¤ÀÌ°í, ±× ¿Ü¿¡µµ Á¦°¡ °ü½ÉÀÖ°Ô º¸°í ÀÖ°Å³ª °øºÎÇÏ°í ÀÖ´Â ³»¿ëÀÌ ÀÖÀ¸¸é ¾÷µ¥ÀÌÆ® ÇÒ ¿¹Á¤ÀÔ´Ï´Ù.
-* ½ÇÁ¦·Î Á¤º¸¸¦ °øÀ¯ ÇÑ´Ù±âº¸´Ù´Â ¾û¼ºÇÑ °³¹ßÀÚ°¡ memoÀå Çü½ÄÀ¸·Î »ç¿ë ÇßÀ» °¡´É¼ºÀÌ ³ô½À´Ï´Ù. Âü°í·Î ÀÌ¿ëÇØ ÁÖ½Ã¸é °¨»çÇÏ°Ú½À´Ï´Ù.
+## Uk's Blog ê¸°ì–µ ì €ì¥ì†Œ
+*  ì£¼ë¡œ ì„ë² ë””ë“œ ê´€ë ¨ëœ ì´ìŠˆë¥¼ ë‹¤ë¤„ë³¼ ì˜ˆì •ì´ê³ , ê·¸ ì™¸ì—ë„ ì œê°€ ê´€ì‹¬ìˆê²Œ ë³´ê³  ìˆê±°ë‚˜ ê³µë¶€í•˜ê³  ìˆëŠ” ë‚´ìš©ì´ ìˆìœ¼ë©´ ì—…ë°ì´íŠ¸ í•  ì˜ˆì •ì…ë‹ˆë‹¤.
+* ì‹¤ì œë¡œ ì •ë³´ë¥¼ ê³µìœ  í•œë‹¤ê¸°ë³´ë‹¤ëŠ” ì—‰ì„±í•œ ê°œë°œìê°€ memoì¥ í˜•ì‹ìœ¼ë¡œ ì‚¬ìš© í–ˆì„ ê°€ëŠ¥ì„±ì´ ë†’ìŠµë‹ˆë‹¤. ì°¸ê³ ë¡œ ì´ìš©í•´ ì£¼ì‹œë©´ ê°ì‚¬í•˜ê² ìŠµë‹ˆë‹¤.
 
 
-## ³»¿ë
+## ï¿½ï¿½ï¿½ï¿½
 
 * Git
 
 
-## »ç¿ëµÈ Theme´Â Moon ÀÔ´Ï´Ù.
-
- ## Preview
+## Preview
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -31,5 +29,5 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
+      
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
