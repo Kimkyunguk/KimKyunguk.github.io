@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Uk's blog
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about, Jekyll, Uk's Blog]
+date: 2017-04-09
 comments: true
 ---
 
